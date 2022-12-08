@@ -8,7 +8,6 @@
    <offers>
       <offer sku="103810041">
          <model>Smart Mop комплект для уборки Tel VBS, бежевый</model>
-         <brand></brand>
          <availabilities>
             <availability available="yes" storeId="PP1" />
          </availabilities>
@@ -16,7 +15,6 @@
       </offer>
       <offer sku="100749649">
          <model>Сушилка Vannashop VRT-1, металл</model>
-         <brand></brand>
          <availabilities>
             <availability available="yes" storeId="PP1" />
          </availabilities>
