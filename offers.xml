@@ -3,7 +3,6 @@
               xmlns="kaspiShopping"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
-
    <company>Dariya</company>
    <merchantid>15748239</merchantid>
    <offers>
