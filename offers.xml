@@ -13,5 +13,12 @@
          </availabilities>
          <price>1000000</price>
       </offer>
+      <offer sku="100019949">
+         <model>Artel Dolce 01-EX серый</model>
+         <availabilities>
+            <availability available="yes" storeId="PP1" />
+         </availabilities>
+         <price>1000000</price>
+      </offer>
    </offers>
 </kaspi_catalog>
