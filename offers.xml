@@ -6,22 +6,12 @@
    <company>Акку2</company>
    <merchantid>9052016</merchantid>
    <offers>
-      <offer sku="103810041">
-         <model>Smart Mop комплект для уборки Tel VBS, бежевый</model>
+      <offer sku="101386969_15748239">
+         <model>Artel Apetito 00-E серый</model>
          <availabilities>
             <availability available="yes" storeId="PP1" />
          </availabilities>
          <price>1000000</price>
-      </offer>
-      <offer sku="100749649">
-         <model>Сушилка Vannashop VRT-1, металл</model>
-         <availabilities>
-            <availability available="yes" storeId="PP1" />
-         </availabilities>
-         <cityprices>
-            <cityprice cityId="750000000">1100000</cityprice>
-            <cityprice cityId="710000000">1200000</cityprice>
-         </cityprices>
       </offer>
    </offers>
 </kaspi_catalog>
