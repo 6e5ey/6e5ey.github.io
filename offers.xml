@@ -20,5 +20,12 @@
          </availabilities>
          <price>1000000</price>
       </offer>
+      <offer sku="3901049_9052016">
+         <model>Artel ART WH 2.0 120</model>
+         <availabilities>
+            <availability available="yes" storeId="PP1" />
+         </availabilities>
+         <price>1000000</price>
+      </offer>
    </offers>
 </kaspi_catalog>
